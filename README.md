@@ -16,4 +16,8 @@ End point: http://localhost:8080/actuator/health
 
 Support by spring-retry
 
+# Rest Controller
+
+Just use to simulate the message queue actions given this application does not connect to an actual message queue
+
 
